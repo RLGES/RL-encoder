@@ -1,4 +1,10 @@
-"""Policy and value heads for AlphaZero-style e-graph control."""
+"""
+DEPRECATED: This file is a legacy placeholder. 
+Please use the new modular implementations in `model/`.
+
+Original implementation follows below for backward compatibility:
+Policy and value heads for AlphaZero-style e-graph control.
+"""
 
 from __future__ import annotations
 

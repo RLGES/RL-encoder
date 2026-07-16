@@ -1,4 +1,10 @@
-"""Heterogeneous e-graph encoder for RL policy/value networks."""
+"""
+DEPRECATED: This file is a legacy placeholder. 
+Please use the new modular implementation in `egraph_encoder/encoder.py`.
+
+Original implementation follows below for backward compatibility:
+Heterogeneous e-graph encoder for RL policy/value networks.
+"""
 
 from __future__ import annotations
 
